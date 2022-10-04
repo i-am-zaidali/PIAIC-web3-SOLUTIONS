@@ -35,3 +35,7 @@ function solution27c(){
         console.log("You have earned 15 points");
     };
 }
+
+solution27a();
+solution27b();
+solution27c();

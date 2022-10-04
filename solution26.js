@@ -19,3 +19,6 @@ function solution26b(){
         console.log("You have earned 10 points");
     };
 }
+
+solution26a();
+solution26b();

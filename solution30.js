@@ -3,7 +3,7 @@
 
 let names = ["zaid", "zia", "mohammed", "saif", "talib", "admin"];
 
-Array.forEach(
+names.forEach(
     (name) => {
         if(name == "admin"){
             console.log("Hello admin, would you like to see a status report?");

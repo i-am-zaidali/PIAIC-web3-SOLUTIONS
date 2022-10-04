@@ -15,3 +15,6 @@ function solution25b(){
         console.log("You have earned 5 points");
     };
 }
+
+solution25a()
+solution25b()
